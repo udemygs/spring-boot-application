@@ -1,4 +1,4 @@
-# spring-rest-jpa-h2 - Getting Started Project with Exception Handling
+# spring-boot-application - Getting Started Project invoke Rest API
 
 **1. Pre-Requisite**
 
